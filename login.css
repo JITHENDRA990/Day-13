@@ -1,0 +1,34 @@
+.card
+{
+    box-shadow: 04px 8px rgba(0,0,0,0.2);
+    transition: 0.5s;
+    border-radius: 35px;
+    background-color:rgb()
+    height:aliceblue
+    margin: left 500px;
+    margin: right 500px;
+    margin: top 20px;
+    margin: bottom 20px;
+    width: 500px;
+}
+.cord:hover{
+    box-shadow: 08px 16px 0rgba(0,0,0,0.2);
+    box-shadow: 08px 16px 0rgba(0,0,0,0.2);
+}
+.container{
+    padding: 20px 100px;
+}
+img {
+    border-radius: 45px;
+}
+input{
+    border-radius: 10px;
+    border: none;
+}
+.fp{
+    padding-left: 90px;
+}
+body{
+    margin-left: 50px;
+    margin-right: 140px;
+}
